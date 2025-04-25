@@ -4,6 +4,8 @@
 
 A minimal and extensible **login/register system** with `Streamlit` and `streamlit-authenticator`, connected to a **PostgreSQL** database hosted on **Neon**.
 
+Streamlit app link: <a href="https://athentication-app.streamlit.app/" target="_blank">https://athentication-app.streamlit.app/</a>
+
 ---
 
 ## 📸 Preview
